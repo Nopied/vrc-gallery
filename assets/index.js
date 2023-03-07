@@ -1,3 +1,3 @@
-let link = document.getElementById("gallery-link");
+let link = document.getElementById('gallery-link');
 
 link.innerHTML = "It Works!";
